@@ -1,21 +1,6 @@
-# [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/)
+[Janepoor Jianpu Ma's personal website](https://Janepoor.github.io)
 
-[![GitHub release](https://img.shields.io/gem/v/minimal-mistakes-jekyll.svg)](https://github.com/mmistakes/minimal-mistakes/releases) [![GitHub license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
-
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
-
-See what's new in the [CHANGELOG](CHANGELOG.md).
-
-:sparkles: Minimal Mistakes is now available as a [Ruby gem](https://rubygems.org/gems/minimal-mistakes-jekyll). Consult the [Quick-Start Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/) and [this blog post](https://mmistakes.github.io/minimal-mistakes/jekyll/gemified-theme-beta/) to learn how to upgrade.
-
-[![Minimal Mistakes live preview][2]][1]
-
-[1]: https://mmistakes.github.io/minimal-mistakes/
-[2]: screenshot.png (live preview)
-
-![layout examples](screenshot-layouts.png)
-
-## Notable Features
+-"Credit by minimal mistake"
 
 - "Gemified" for easier install/upgrading
 - Compatible with Jekyll 3.x and GitHub Pages
