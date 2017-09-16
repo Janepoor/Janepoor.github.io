@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "zh-CN"
+locale                   : "en-US"
 title                    : "Survive in the shell"
 title_separator          : "-"
 name                     : "Jianpu Ma"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Jianpu Ma"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Programmer."
+  bio              : "Programmer, Musician."
   location         : "New York City"
   email            : "jm4437@columbia.edu"
   uri              :
@@ -95,7 +95,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "/in/jianpu-ma-6b5426104/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
